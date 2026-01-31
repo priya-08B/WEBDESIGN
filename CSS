@@ -77,7 +77,7 @@ display: flex; align-items: center;justify-content: space-between;
   overflow: hidden;
 }
 
-.question {
+.qn {
   padding: 18px 20px;
   font-size: 16px;
   cursor: pointer;
@@ -85,7 +85,7 @@ display: flex; align-items: center;justify-content: space-between;
   
 }
 
-.question .arrow {
+.qn .ar {
   float: right;
   font-size: 14px;
 }
