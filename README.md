@@ -7,28 +7,28 @@ This project is a simple responsive website built using HTML5 and CSS3. It demon
 
 Features
 
-Responsive webpage layout
+   Responsive webpage layout
 
-Navigation bar
+   Navigation bar
 
-Hero / Header section
+   Hero / Header section
 
-Content sections
+   Content sections
 
-Social media icons
+   Social media icons
 
-Footer
+   Footer
 
-Styled using external CSS
+   Styled using external CSS
 
 
 Technologies Used
 
-HTML5 – Structure of the website
+   HTML5 – Structure of the website
 
-CSS3 – Styling and layout
+   CSS3 – Styling and layout
 
-Font Awesome – Icons
+   Font Awesome – Icons
 
 
 
